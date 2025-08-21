@@ -129,3 +129,12 @@ body {
 .container .content .right-side .button input[type="submit"]:hover {
   background-color: #5029bc;
 }
+
+@media (max-width: 950px) {
+  .container {
+    width: 90%;
+    padding: 30px 35px 40px 35px;
+  }
+}
+
+
