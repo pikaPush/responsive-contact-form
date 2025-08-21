@@ -38,3 +38,8 @@ body {
 .container .content .right-side {
   width: 75%;
 }
+
+.container .content .left-side .details {
+  margin: 14px;
+  text-align: center;
+}
