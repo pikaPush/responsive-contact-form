@@ -79,3 +79,8 @@ body {
   font-weight: 600;
   color: #3e2093;
 }
+
+.container .content .right-side .input-box {
+  height: 50px;
+  width: 100%;
+}
