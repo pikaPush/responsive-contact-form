@@ -107,6 +107,7 @@ body {
 
 .container .content .right-side .button {
   margin-top: 12px;
+  display: inline-block;
 }
 
 .container .content .right-side .button input[type="submit"] {
