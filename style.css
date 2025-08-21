@@ -36,6 +36,17 @@ body {
   position: relative;
 }
 
+.container .content .left-side::before {
+  content: "";
+  position: absolute;
+  height: 70%;
+  width: 2px;
+  background-color: #afafb6;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
 .container .content .right-side {
   width: 75%;
   margin-left: 75px;
