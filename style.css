@@ -152,9 +152,15 @@ body {
     flex-direction: row;
     margin-top: 40px;
     justify-content: center;
+    flex-wrap: wrap;
   }
 
   .container .content .left-side::before {
     display: none;
+  }
+
+  .container .content .right-side {
+    width: 100%;
+    margin-left: 0;
   }
 }
