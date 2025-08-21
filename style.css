@@ -98,7 +98,5 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
-.container .content .right-side .input-box textarea {
-  padding: 10px;
-  resize: none;
+.container .content .right-side .input-box.message-box {
 }
