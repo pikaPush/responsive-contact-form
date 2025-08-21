@@ -142,4 +142,8 @@ body {
     margin: 40px 0;
     height: 100%;
   }
+
+  .container .content {
+    flex-direction: column-reverse;
+  }
 }
