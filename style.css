@@ -151,6 +151,8 @@ body {
     width: 100%;
     flex-direction: row;
     margin-top: 40px;
+    justify-content: center;
+    align-items: center;
   }
 
   .container .content .left-side::before {
