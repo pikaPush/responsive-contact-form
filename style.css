@@ -112,4 +112,10 @@ body {
   font-weight: 500;
   border-radius: 4px;
   font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.container .content .right-side .button input[type="submit"]:hover {
+  background-color: #5029bc;
 }
