@@ -84,3 +84,8 @@ body {
   height: 50px;
   width: 100%;
 }
+
+.container .content .right-side .input-box input {
+  height: 100%;
+  width: 100%;
+}
