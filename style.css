@@ -48,6 +48,7 @@ body {
 .container .content .left-side .details i {
   font-size: 30px;
   color: #3e2093;
+  margin-bottom: 15px;
 }
 
 .container .content .left-side .details .topics {
