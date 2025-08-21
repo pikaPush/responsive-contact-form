@@ -101,7 +101,7 @@ body {
 
 .container .content .right-side .message-box {
   min-height: 110px;
-  resize: none;
+  margin-top: 6px;
 }
 
 .container .content .right-side .button input[type="submit"] {
