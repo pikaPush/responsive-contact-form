@@ -63,6 +63,12 @@ body {
   margin-bottom: 15px;
 }
 
+.container .content .left-side .details .text-one,
+.container .content .left-side .details .text-two {
+  font-size: 14px;
+  color: #afafb6;
+}
+
 .container .content .left-side .details .topics {
   font-size: 18px;
   font-weight: 600;
