@@ -34,3 +34,7 @@ body {
   width: 25%;
   height: 100%;
 }
+
+.container .content .right-side {
+  width: 75%;
+}
