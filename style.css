@@ -86,7 +86,8 @@ body {
   margin: 12px 0;
 }
 
-.container .content .right-side .input-box input {
+.container .content .right-side .input-box input,
+.container .content .right-side .input-box textarea {
   height: 100%;
   width: 100%;
   border: none;
@@ -95,4 +96,9 @@ body {
   padding: 0 10px;
   font-size: 16px;
   font-family: "Poppins", sans-serif;
+}
+
+.container .content .right-side .input-box textarea {
+  padding: 10px;
+  resize: none;
 }
