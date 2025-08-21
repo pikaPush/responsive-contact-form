@@ -73,3 +73,9 @@ body {
   font-size: 18px;
   font-weight: 600;
 }
+
+.container .content .right-side .topic-text {
+  font-size: 23px;
+  font-weight: 600;
+  color: #3e2093;
+}
