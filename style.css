@@ -146,4 +146,14 @@ body {
   .container .content {
     flex-direction: column-reverse;
   }
+
+  .container .content .left-side {
+    width: 100%;
+    flex-direction: row;
+    margin-top: 40px;
+  }
+
+  .container .content .left-side::before {
+    display: none;
+  }
 }
