@@ -49,3 +49,8 @@ body {
   font-size: 30px;
   color: #3e2093;
 }
+
+.container .content .left-side .details .topics {
+  font-size: 18px;
+  font-weight: 600;
+}
