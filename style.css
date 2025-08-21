@@ -83,6 +83,7 @@ body {
 .container .content .right-side .input-box {
   height: 50px;
   width: 100%;
+  margin: 12px 0;
 }
 
 .container .content .right-side .input-box input {
